@@ -12,7 +12,7 @@ int main() {
     //strset(string1,'?');  //sets all characters of a string to agiven characters
     //strnset(string1,'x',1); // set n  first characters to a given characters (xlyes)
     //strrev(string2);    // Reverse a string
-    //int result = strlen(string1);   // rturns string   length as int 
+    //int result = strlen(string1);   // returns string   length as int 
       // int result =strcmp(string1,string2);    // string compare all characters
       //int result =strncmp(string1,string2,1);   // string compare n characters
       //int result = strcmpi(string1,string1); // stirng compare all (ignore case)
@@ -25,3 +25,4 @@ int main() {
 
 
 }
+
