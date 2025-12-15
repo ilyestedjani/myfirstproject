@@ -8,7 +8,7 @@ int main() {
     //strcat(string1, string2);               // appends string2 to end of  string1
     //strncat(string1, string2,5); // appends n character from string2 to string 2 like tedjani to t or te or ted ...
     //strcpy(string1,string2);   // copy from string2 to string1
-    //strncpy(string1,string2,3);        // cpoy n characters of  string2 to string1
+    //strncpy(string1,string2,3);        // copy n characters of  string2 to string1
     //strset(string1,'?');  //sets all characters of a string to agiven characters
     //strnset(string1,'x',1); // set n  first characters to a given characters (xlyes)
     //strrev(string2);    // Reverse a string
@@ -21,6 +21,7 @@ int main() {
     
 
     
+
 
 
 }
